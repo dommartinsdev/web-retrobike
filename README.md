@@ -9,10 +9,6 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p align="center">
-
-</p>
-
 <br>
 
 <p align="center">
