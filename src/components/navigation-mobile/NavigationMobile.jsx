@@ -18,6 +18,10 @@ export default function NavigationMobile() {
         <div class="offcanvas-body">
           <div class="navbar-nav ms-auto">
             <Link to="/" class="nav-link">Início</Link>
+            <Link to="/about" class="nav-link">Sobre nós</Link>
+            <Link to="/service" class="nav-link">Serviços</Link>
+            <Link to="/store" class="nav-link">Loja</Link>
+            <Link to="/contact" class="nav-link">Contato</Link>
           </div>
         </div>
       </div>
