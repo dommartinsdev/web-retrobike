@@ -1,0 +1,18 @@
+.offcanvas {
+    padding: 30px;
+}
+.offcanvas .btn-close {
+    background: url('../../assets/icons/icon-close.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+.offcanvas .nav-link {
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--color-dark-bold);
+}
+.offcanvas .nav-link:hover {
+    font-weight: 600;
+    color: var(--color-dark-bold);
+}

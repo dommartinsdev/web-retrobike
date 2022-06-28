@@ -1,0 +1,9 @@
+.rt-footer p {
+    margin: 0px;
+    font-size: 18px;
+    color: var(--color-dark-normal);
+    font-weight: 300;
+}
+.rt-footer p a {
+    color: var(--color-dark-normal);
+}

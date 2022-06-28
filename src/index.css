@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@200;300;500;600;700;900&display=swap');
+
+:root {
+    --font:'Exo', sans-serif;
+    --color-dark-bold:#222222;
+    --color-dark-normal:#888888;
+    --color-white:#FFFFFF;
+}
+
+* {
+    font-family: var(--font);
+}
