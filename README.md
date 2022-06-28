@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src=".github/brand.svg" />
+    <img alt="" title="" src="github/brand.svg" width="35%"/>
 </h1>
 
 <p align="center">
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="" src=".github/banner.png" width="100%">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Descrição
+Retrobike é uma empresa com atuação no mercado nacional, especializada no varejo on-line de produtos relacionados ao universo Vintage. Desenvolvemos itens que resgatam, além de boas lembranças, a valorização de hábitos do passado, unindo-os à inovação e à tecnologia necessárias para os dias atuais. Temos o compromisso de criar produtos com design, qualidade e durabilidade. Com design retrô, nossos produtos garantem novas experiências e inspiram um novo estilo de vida em sintonia com a praticidade e com a funcionalidade necessárias para o dia a dia contemporâneo.
 
 ## 🚀 Start Projeto
 
@@ -46,10 +46,14 @@ Descrição
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
+## 🌐 Implementação no Netlify
+
+Acesse [`https://web-retrobike.netlify.app/`](https://web-retrobike.netlify.app/) do seu navegador.
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com por Jessé Martin
+Feito com por Jessé Martins
