@@ -1,0 +1,27 @@
+.rt-service {
+    padding: 80px 0px;
+}
+.rt-service h2 {
+    font-size: 45px;
+}
+.rt-service h4 {
+    font-size: 30px;
+}
+.rt-service p {
+    font-size: 18px;
+    font-weight: 300;
+    color: var(--color-dark-normal);
+}
+
+@media (max-width: 575.98px) {}
+@media (max-width: 767.98px) {
+    .rt-service {
+        padding: 40px 0px;
+    }
+    .rt-service h2 {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1399.98px) {}
