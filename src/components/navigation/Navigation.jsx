@@ -14,10 +14,10 @@ export default function Navigation() {
       <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
         <div class="container">
           <Link to="/" class="navbar-brand">
-            <img src={ImgBrand} width="200px" />
+            <img src={ImgBrand} width="200px" alt=""/>
           </Link>
           <button class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobile" aria-controls="offcanvasRight">
-            <img src={IconMenu} />
+            <img src={IconMenu} alt=""/>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ms-auto">

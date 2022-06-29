@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <React.Fragment>
         <section className="rt-home-01 text-center">
-          <img src={img01} />
+          <img src={img01} alt=""/>
         </section>
         <section className="rt-home-02">
           <div className="container">
@@ -26,7 +26,7 @@ export default function Home() {
           </div>
         </section>
         <section className="rt-home-03 text-center">
-          <img src={img02} />
+          <img src={img02} alt=""/>
         </section>
         <section className="rt-home-04">
           <div className="container">

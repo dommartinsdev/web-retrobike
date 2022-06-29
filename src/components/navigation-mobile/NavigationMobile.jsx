@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import './NavigationMobile.css'
 
-import ImgBrand from '../../assets/icons/brand.svg'
+import ImgBrandMobile from '../../assets/icons/brand.svg'
 
 export default function NavigationMobile() {
   return (
@@ -11,7 +11,7 @@ export default function NavigationMobile() {
       <div class="offcanvas offcanvas-end border-0" tabindex="-1" id="mobile" aria-labelledby="offcanvasRightLabel">
         <div class="offcanvas-header">
           <Link to="/" class="navbar-brand">
-            <img src={ImgBrand} width="175px" />
+            <img src={ImgBrandMobile} width="175px" alt=""/>
           </Link>
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>

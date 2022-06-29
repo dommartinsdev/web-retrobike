@@ -11,7 +11,7 @@ export default function About() {
             <div className="container">
                 <div className="row d-flex align-items-center">
                     <div className="col-lg-6">
-                        <img src={ImgAbout} />
+                        <img src={ImgAbout} alt=""/>
                     </div>
                     <div className="col-lg-6">
                         <h2>TRAZEMOS VIDA À SUA BICICLETA</h2>
