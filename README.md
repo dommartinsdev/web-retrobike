@@ -44,7 +44,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 🌐 Implementação no Netlify
 
-Acesse [`https://web-retrobike.netlify.app/`](https://web-retrobike.netlify.app/) do seu navegador.
+Acesse [`https://web-retrobike.herokuapp.com/`](https://web-retrobike.herokuapp.com/) do seu navegador.
 
 ## 📝 Licença
 
