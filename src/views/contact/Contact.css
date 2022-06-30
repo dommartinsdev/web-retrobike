@@ -1,0 +1,36 @@
+.rt-contact {
+    padding: 80px 0px;
+}
+.rt-contact input[type="submit"] {
+    background-color: var(--color-dark-bold);
+    color: var(--color-white);
+}
+.rt-contact img {
+    width: 175px;
+    margin-bottom: 30px;
+}
+.rt-contact p {
+    font-size: 18px;
+    font-weight: 300;
+}
+.rt-contact h5 {
+    font-size: 18px;
+    font-weight: 600;
+}
+.rt-contact h6 {
+    font-weight: 300;
+    font-size: 18px;
+}
+@media (max-width: 575.98px) {}
+@media (max-width: 767.98px) {
+    .rt-contact {
+        padding: 40px 0px;
+    }
+    .rt-contact img {
+        width: 175px;
+        margin-top: 30px;
+    }
+}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1399.98px) {}
