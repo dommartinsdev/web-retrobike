@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,7 +44,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 🌐 Implementação no Netlify
 
-Acesse [`https://web-retrobike.herokuapp.com/`](https://web-retrobike.herokuapp.com/) do seu navegador.
+Acesse [`https://web-retrobike.netlify.app/`](https://web-retrobike.netlify.app/) do seu navegador.
 
 ## 📝 Licença
 
