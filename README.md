@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Router Dom](https://reactrouter.com/)
-- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
 
 ## 💻 Projeto
 
